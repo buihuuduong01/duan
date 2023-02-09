@@ -1,0 +1,25 @@
+000046a:1:{s:4:"time";s:21:"0.73079100 1675915076";}1675975076a:9:{s:2:"id";i:60;s:10:"updated_at";s:19:"2021-04-29 08:23:41";s:10:"created_at";s:19:"2021-04-29 08:23:41";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:7:"inherit";s:6:"rel_id";s:1:"8";s:5:"field";s:22:"new-world_shop_sidebar";s:5:"value";s:1232:"
+    <div class="sidebar element" id="element_1619684588190">
+        <div class="sidebar__widget search-holder element">
+            <module class=" module module-search " id="module-search-8" data-mw-title="Search" data-search-type="shop" data-type="search"></module>
+        </div>
+
+        <div class="sidebar__widget m-b-40 element" id="element_1619684588186">
+            <h4 class="m-b-20 element">Categories</h4>
+
+            <module class="module module-categories" id="module-categories-8" data-mw-title="Categories" template="skin-1" content-id="8" data-type="categories"></module>
+        </div>
+
+        <div class="sidebar__widget m-b-40 element" id="element_1619684588192">
+            <h4 class="m-b-20 element" id="element_1619684588191">Tags</h4>
+
+            <module class="module module-tags" data-mw-title="Tags" id="module-tags-8" template="skin-1" data-type="tags"></module>
+        </div>
+
+        <div class="sidebar__widget m-b-40 element">
+            <h4 class="m-b-20 element">About Us</h4>
+            <p class="element">
+                We're a digital focussed collective working with individuals and businesses to establish rich, engaging online presences.            </p>
+        </div>
+    </div>
+";}
